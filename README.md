@@ -28,3 +28,7 @@ Para registrar un usuario ejecute una peticion POST al recurso /user desde su ap
         }
     ]
 }'``
+
+Para visualizar la data en base de datos:
+
+Ingresar a http://localhost:8080/h2-console
